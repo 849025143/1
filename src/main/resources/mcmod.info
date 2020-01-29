@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ggyms",
+  "name": "Generic Gyms",
+  "description": "Your basic, modular gym management solution.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Avery (AnDwHaT5)"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
